@@ -31,7 +31,7 @@ It includes sections for showcasing information, blog posts, and projects.
 ![Blog2](blog2.png)
 
 ### Projects  
-![Projects](projects.png)
+![Projects](project.png)
 
 ### Contact  
 ![Contact](contact.png)

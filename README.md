@@ -17,8 +17,8 @@ The website is designed as a **content-driven platform** where users can explore
 
 - **Home** – Introduction and landing section  
 - **About** – Personal background and information  
-- **Blog 1** – First blog post with insights and ideas  
-- **Blog 2** – Second blog post sharing experiences  
+- **Blog 1** – Detailed experience and key learnings from the *Avishkar Innovation Competition*  
+- **Blog 2** – Achievement story on securing *First Position in the ENTC Department*, along with recognition and award   
 - **Projects** – Showcase of personal and academic work  
 - **Contact** – Communication page with contact form/email  
 
@@ -36,22 +36,12 @@ The website is designed as a **content-driven platform** where users can explore
 
 ## 🖼️ Screenshots
 
-### 🏠 Home Page  
+
 ![Home](home.png)
-
-### 👤 About Page  
 ![About](about.png)
-
-### 📝 Blog 1  
 ![Blog1](blog1.png)
-
-### 📝 Blog 2  
-![Blog2](blog2.png)
-
-### 💼 Projects  
+![Blog2](blog2.mp4) 
 ![Projects](project.png)
-
-### 📬 Contact  
 ![Contact](contact.png)
 
 ---

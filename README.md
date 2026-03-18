@@ -36,13 +36,20 @@ The website is designed as a **content-driven platform** where users can explore
 
 ## 🖼️ Screenshots
 
-
-![Home](home.png)
-![About](about.png)
-![Blog1](blog1.png)
-![Blog2](blog2.png)(https://drive.google.com/file/d/1AfGBrvuStRINxo9W7ZrABZk2Y1Tl865p/view) 
-![Projects](project.png)
+![Home](home.png)  
+![About](about.png)  
+![Blog1](blog1.png)  
+![Blog2](blog2.png)  
+![Projects](project.png)  
 ![Contact](contact.png)
+
+---
+
+### 🏆 Blog 2 – Achievement Highlight
+
+This video showcases receiving the award for securing **First Position in the ENTC Department**.
+
+👉 [▶️ Watch Demo Video](https://drive.google.com/file/d/1AfGBrvuStRINxo9W7ZrABZk2Y1Tl865p/view)
 
 ---
 
@@ -75,6 +82,7 @@ Although the project is currently hosted locally, this repository serves as:
 - 📌 Project demonstration for portfolio and resume  
 
 ---
+
 
 ## 👩‍💻 Author
 

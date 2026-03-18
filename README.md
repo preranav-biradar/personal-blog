@@ -40,7 +40,7 @@ The website is designed as a **content-driven platform** where users can explore
 ![Home](home.png)
 ![About](about.png)
 ![Blog1](blog1.png)
-![Blog2](blog2.mp4) 
+![Blog2](blog2.png)(https://drive.google.com/file/d/1AfGBrvuStRINxo9W7ZrABZk2Y1Tl865p/view) 
 ![Projects](project.png)
 ![Contact](contact.png)
 
